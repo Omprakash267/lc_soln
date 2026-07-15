@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Omprakash267/lc_soln/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Omprakash267/lc_soln/tree/master/0215-kth-largest-element-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Omprakash267/lc_soln/tree/master/0453-minimum-moves-to-equal-array-elements) |
 ## Math
 |  |
@@ -16,4 +17,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Omprakash267/lc_soln/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Omprakash267/lc_soln/tree/master/0215-kth-largest-element-in-an-array) |
+## Sorting
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Omprakash267/lc_soln/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Omprakash267/lc_soln/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Omprakash267/lc_soln/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
