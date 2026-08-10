@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Omprakash267/lc_soln/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Omprakash267/lc_soln/tree/master/0217-contains-duplicate) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Omprakash267/lc_soln/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/Omprakash267/lc_soln/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0833-find-and-replace-in-string](https://github.com/Omprakash267/lc_soln/tree/master/0833-find-and-replace-in-string) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Omprakash267/lc_soln/tree/master/0883-projection-area-of-3d-shapes) |
 | [1470-shuffle-the-array](https://github.com/Omprakash267/lc_soln/tree/master/1470-shuffle-the-array) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Omprakash267/lc_soln/tree/master/0215-kth-largest-element-in-an-array) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/Omprakash267/lc_soln/tree/master/0659-split-array-into-consecutive-subsequences) |
 ## Quickselect
 |  |
 | ------- |
@@ -92,11 +94,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Omprakash267/lc_soln/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Omprakash267/lc_soln/tree/master/0217-contains-duplicate) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/Omprakash267/lc_soln/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0791-custom-sort-string](https://github.com/Omprakash267/lc_soln/tree/master/0791-custom-sort-string) |
 | [0833-find-and-replace-in-string](https://github.com/Omprakash267/lc_soln/tree/master/0833-find-and-replace-in-string) |
 ## Greedy
 |  |
 | ------- |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/Omprakash267/lc_soln/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0678-valid-parenthesis-string](https://github.com/Omprakash267/lc_soln/tree/master/0678-valid-parenthesis-string) |
 ## Bracket Sequences
 |  |
