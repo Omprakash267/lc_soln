@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0833-find-and-replace-in-string](https://github.com/Omprakash267/lc_soln/tree/master/0833-find-and-replace-in-string) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Omprakash267/lc_soln/tree/master/0883-projection-area-of-3d-shapes) |
 | [1470-shuffle-the-array](https://github.com/Omprakash267/lc_soln/tree/master/1470-shuffle-the-array) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Omprakash267/lc_soln/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Omprakash267/lc_soln/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Omprakash267/lc_soln/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Math
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/Omprakash267/lc_soln/tree/master/0791-custom-sort-string) |
 | [0833-find-and-replace-in-string](https://github.com/Omprakash267/lc_soln/tree/master/0833-find-and-replace-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/Omprakash267/lc_soln/tree/master/1108-defanging-an-ip-address) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Omprakash267/lc_soln/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Omprakash267/lc_soln/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Omprakash267/lc_soln/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Simulation
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Omprakash267/lc_soln/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0791-custom-sort-string](https://github.com/Omprakash267/lc_soln/tree/master/0791-custom-sort-string) |
 | [0833-find-and-replace-in-string](https://github.com/Omprakash267/lc_soln/tree/master/0833-find-and-replace-in-string) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Omprakash267/lc_soln/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Greedy
 |  |
 | ------- |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Omprakash267/lc_soln/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Omprakash267/lc_soln/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Union-Find
 |  |
 | ------- |
@@ -153,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0606-construct-string-from-binary-tree](https://github.com/Omprakash267/lc_soln/tree/master/0606-construct-string-from-binary-tree) |
+## Counting
+|  |
+| ------- |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Omprakash267/lc_soln/tree/master/1684-count-the-number-of-consistent-strings) |
 <!---LeetCode Topics End-->
