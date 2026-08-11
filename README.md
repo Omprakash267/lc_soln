@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Omprakash267/lc_soln/tree/master/0043-multiply-strings) |
 | [0394-decode-string](https://github.com/Omprakash267/lc_soln/tree/master/0394-decode-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/Omprakash267/lc_soln/tree/master/0583-delete-operation-for-two-strings) |
+| [0606-construct-string-from-binary-tree](https://github.com/Omprakash267/lc_soln/tree/master/0606-construct-string-from-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/Omprakash267/lc_soln/tree/master/0678-valid-parenthesis-string) |
 | [0791-custom-sort-string](https://github.com/Omprakash267/lc_soln/tree/master/0791-custom-sort-string) |
 | [0833-find-and-replace-in-string](https://github.com/Omprakash267/lc_soln/tree/master/0833-find-and-replace-in-string) |
@@ -140,4 +141,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Omprakash267/lc_soln/tree/master/0238-product-of-array-except-self) |
+## Tree
+|  |
+| ------- |
+| [0606-construct-string-from-binary-tree](https://github.com/Omprakash267/lc_soln/tree/master/0606-construct-string-from-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0606-construct-string-from-binary-tree](https://github.com/Omprakash267/lc_soln/tree/master/0606-construct-string-from-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0606-construct-string-from-binary-tree](https://github.com/Omprakash267/lc_soln/tree/master/0606-construct-string-from-binary-tree) |
 <!---LeetCode Topics End-->
