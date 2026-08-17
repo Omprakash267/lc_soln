@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Omprakash267/lc_soln/tree/master/0043-multiply-strings) |
+| [0050-powx-n](https://github.com/Omprakash267/lc_soln/tree/master/0050-powx-n) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Omprakash267/lc_soln/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Omprakash267/lc_soln/tree/master/0883-projection-area-of-3d-shapes) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Omprakash267/lc_soln/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Omprakash267/lc_soln/tree/master/0050-powx-n) |
 | [0394-decode-string](https://github.com/Omprakash267/lc_soln/tree/master/0394-decode-string) |
 ## Hash Table
 |  |
