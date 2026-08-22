@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Omprakash267/lc_soln/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/Omprakash267/lc_soln/tree/master/0043-multiply-strings) |
 | [0394-decode-string](https://github.com/Omprakash267/lc_soln/tree/master/0394-decode-string) |
+| [0434-number-of-segments-in-a-string](https://github.com/Omprakash267/lc_soln/tree/master/0434-number-of-segments-in-a-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/Omprakash267/lc_soln/tree/master/0583-delete-operation-for-two-strings) |
 | [0606-construct-string-from-binary-tree](https://github.com/Omprakash267/lc_soln/tree/master/0606-construct-string-from-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/Omprakash267/lc_soln/tree/master/0678-valid-parenthesis-string) |
