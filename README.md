@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Omprakash267/lc_soln/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Omprakash267/lc_soln/tree/master/0050-powx-n) |
 | [0394-decode-string](https://github.com/Omprakash267/lc_soln/tree/master/0394-decode-string) |
 ## Hash Table
@@ -167,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Omprakash267/lc_soln/tree/master/1684-count-the-number-of-consistent-strings) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Omprakash267/lc_soln/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
