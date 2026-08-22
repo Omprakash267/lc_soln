@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Omprakash267/lc_soln/tree/master/0015-3sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Omprakash267/lc_soln/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Omprakash267/lc_soln/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Omprakash267/lc_soln/tree/master/0242-valid-anagram) |
 | [0791-custom-sort-string](https://github.com/Omprakash267/lc_soln/tree/master/0791-custom-sort-string) |
 | [0833-find-and-replace-in-string](https://github.com/Omprakash267/lc_soln/tree/master/0833-find-and-replace-in-string) |
 ## Heap (Priority Queue)
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Omprakash267/lc_soln/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/Omprakash267/lc_soln/tree/master/0043-multiply-strings) |
+| [0242-valid-anagram](https://github.com/Omprakash267/lc_soln/tree/master/0242-valid-anagram) |
 | [0394-decode-string](https://github.com/Omprakash267/lc_soln/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/Omprakash267/lc_soln/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/Omprakash267/lc_soln/tree/master/0434-number-of-segments-in-a-string) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Omprakash267/lc_soln/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Omprakash267/lc_soln/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Omprakash267/lc_soln/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Omprakash267/lc_soln/tree/master/0242-valid-anagram) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Omprakash267/lc_soln/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0791-custom-sort-string](https://github.com/Omprakash267/lc_soln/tree/master/0791-custom-sort-string) |
 | [0833-find-and-replace-in-string](https://github.com/Omprakash267/lc_soln/tree/master/0833-find-and-replace-in-string) |
