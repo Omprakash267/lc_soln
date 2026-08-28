@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Omprakash267/lc_soln/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Omprakash267/lc_soln/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/Omprakash267/lc_soln/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/Omprakash267/lc_soln/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Omprakash267/lc_soln/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Omprakash267/lc_soln/tree/master/0883-projection-area-of-3d-shapes) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Omprakash267/lc_soln/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/Omprakash267/lc_soln/tree/master/0070-climbing-stairs) |
 | [0583-delete-operation-for-two-strings](https://github.com/Omprakash267/lc_soln/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/Omprakash267/lc_soln/tree/master/0678-valid-parenthesis-string) |
 ## Two Pointers
@@ -179,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Omprakash267/lc_soln/tree/master/0021-merge-two-sorted-lists) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Omprakash267/lc_soln/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
