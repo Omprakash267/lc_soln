@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-projection-area-of-3d-shapes](https://github.com/Omprakash267/lc_soln/tree/master/0883-projection-area-of-3d-shapes) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Omprakash267/lc_soln/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/Omprakash267/lc_soln/tree/master/1512-number-of-good-pairs) |
+| [2235-add-two-integers](https://github.com/Omprakash267/lc_soln/tree/master/2235-add-two-integers) |
 ## Binary Search
 |  |
 | ------- |
