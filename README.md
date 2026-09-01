@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Omprakash267/lc_soln/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/Omprakash267/lc_soln/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Omprakash267/lc_soln/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/Omprakash267/lc_soln/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Omprakash267/lc_soln/tree/master/0242-valid-anagram) |
 | [0394-decode-string](https://github.com/Omprakash267/lc_soln/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/Omprakash267/lc_soln/tree/master/0412-fizz-buzz) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Omprakash267/lc_soln/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Omprakash267/lc_soln/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Omprakash267/lc_soln/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/Omprakash267/lc_soln/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Omprakash267/lc_soln/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Omprakash267/lc_soln/tree/master/0189-rotate-array) |
 | [1768-merge-strings-alternately](https://github.com/Omprakash267/lc_soln/tree/master/1768-merge-strings-alternately) |
