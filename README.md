@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Omprakash267/lc_soln/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0833-find-and-replace-in-string](https://github.com/Omprakash267/lc_soln/tree/master/0833-find-and-replace-in-string) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Omprakash267/lc_soln/tree/master/0883-projection-area-of-3d-shapes) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Omprakash267/lc_soln/tree/master/1248-count-number-of-nice-subarrays) |
 | [1470-shuffle-the-array](https://github.com/Omprakash267/lc_soln/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Omprakash267/lc_soln/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Omprakash267/lc_soln/tree/master/1512-number-of-good-pairs) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Omprakash267/lc_soln/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Omprakash267/lc_soln/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Omprakash267/lc_soln/tree/master/0883-projection-area-of-3d-shapes) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Omprakash267/lc_soln/tree/master/1248-count-number-of-nice-subarrays) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Omprakash267/lc_soln/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/Omprakash267/lc_soln/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/Omprakash267/lc_soln/tree/master/2235-add-two-integers) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Omprakash267/lc_soln/tree/master/0771-jewels-and-stones) |
 | [0791-custom-sort-string](https://github.com/Omprakash267/lc_soln/tree/master/0791-custom-sort-string) |
 | [0833-find-and-replace-in-string](https://github.com/Omprakash267/lc_soln/tree/master/0833-find-and-replace-in-string) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Omprakash267/lc_soln/tree/master/1248-count-number-of-nice-subarrays) |
 | [1512-number-of-good-pairs](https://github.com/Omprakash267/lc_soln/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Omprakash267/lc_soln/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Omprakash267/lc_soln/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Omprakash267/lc_soln/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Omprakash267/lc_soln/tree/master/0238-product-of-array-except-self) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Omprakash267/lc_soln/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/Omprakash267/lc_soln/tree/master/1480-running-sum-of-1d-array) |
 ## Tree
 |  |
@@ -225,4 +229,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Omprakash267/lc_soln/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Omprakash267/lc_soln/tree/master/0209-minimum-size-subarray-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Omprakash267/lc_soln/tree/master/1248-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
