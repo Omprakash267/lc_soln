@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Omprakash267/lc_soln/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0833-find-and-replace-in-string](https://github.com/Omprakash267/lc_soln/tree/master/0833-find-and-replace-in-string) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Omprakash267/lc_soln/tree/master/0883-projection-area-of-3d-shapes) |
+| [0904-fruit-into-baskets](https://github.com/Omprakash267/lc_soln/tree/master/0904-fruit-into-baskets) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Omprakash267/lc_soln/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Omprakash267/lc_soln/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1470-shuffle-the-array](https://github.com/Omprakash267/lc_soln/tree/master/1470-shuffle-the-array) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Omprakash267/lc_soln/tree/master/0771-jewels-and-stones) |
 | [0791-custom-sort-string](https://github.com/Omprakash267/lc_soln/tree/master/0791-custom-sort-string) |
 | [0833-find-and-replace-in-string](https://github.com/Omprakash267/lc_soln/tree/master/0833-find-and-replace-in-string) |
+| [0904-fruit-into-baskets](https://github.com/Omprakash267/lc_soln/tree/master/0904-fruit-into-baskets) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Omprakash267/lc_soln/tree/master/1248-count-number-of-nice-subarrays) |
 | [1512-number-of-good-pairs](https://github.com/Omprakash267/lc_soln/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Omprakash267/lc_soln/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Omprakash267/lc_soln/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Omprakash267/lc_soln/tree/master/0209-minimum-size-subarray-sum) |
+| [0904-fruit-into-baskets](https://github.com/Omprakash267/lc_soln/tree/master/0904-fruit-into-baskets) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Omprakash267/lc_soln/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Omprakash267/lc_soln/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
