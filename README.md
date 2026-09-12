@@ -250,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Omprakash267/lc_soln/tree/master/0069-sqrtx) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [0583-delete-operation-for-two-strings](https://github.com/Omprakash267/lc_soln/tree/master/0583-delete-operation-for-two-strings) |
 <!---LeetCode Topics End-->
