@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Omprakash267/lc_soln/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Omprakash267/lc_soln/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Omprakash267/lc_soln/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Omprakash267/lc_soln/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Omprakash267/lc_soln/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Omprakash267/lc_soln/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/Omprakash267/lc_soln/tree/master/0412-fizz-buzz) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Omprakash267/lc_soln/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Omprakash267/lc_soln/tree/master/0069-sqrtx) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Omprakash267/lc_soln/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Omprakash267/lc_soln/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Omprakash267/lc_soln/tree/master/0209-minimum-size-subarray-sum) |
@@ -242,4 +244,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Omprakash267/lc_soln/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Omprakash267/lc_soln/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Omprakash267/lc_soln/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Omprakash267/lc_soln/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
