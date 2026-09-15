@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Omprakash267/lc_soln/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Omprakash267/lc_soln/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Omprakash267/lc_soln/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/Omprakash267/lc_soln/tree/master/0068-text-justification) |
 | [0128-longest-consecutive-sequence](https://github.com/Omprakash267/lc_soln/tree/master/0128-longest-consecutive-sequence) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Omprakash267/lc_soln/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Omprakash267/lc_soln/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Omprakash267/lc_soln/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Omprakash267/lc_soln/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Omprakash267/lc_soln/tree/master/0058-length-of-last-word) |
+| [0068-text-justification](https://github.com/Omprakash267/lc_soln/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/Omprakash267/lc_soln/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Omprakash267/lc_soln/tree/master/0242-valid-anagram) |
 | [0394-decode-string](https://github.com/Omprakash267/lc_soln/tree/master/0394-decode-string) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Omprakash267/lc_soln/tree/master/0043-multiply-strings) |
+| [0068-text-justification](https://github.com/Omprakash267/lc_soln/tree/master/0068-text-justification) |
 | [0412-fizz-buzz](https://github.com/Omprakash267/lc_soln/tree/master/0412-fizz-buzz) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Omprakash267/lc_soln/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Dynamic Programming
