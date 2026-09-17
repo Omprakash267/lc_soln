@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Omprakash267/lc_soln/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Omprakash267/lc_soln/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Omprakash267/lc_soln/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Omprakash267/lc_soln/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/Omprakash267/lc_soln/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Omprakash267/lc_soln/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Omprakash267/lc_soln/tree/master/0883-projection-area-of-3d-shapes) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Omprakash267/lc_soln/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Omprakash267/lc_soln/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Omprakash267/lc_soln/tree/master/0231-power-of-two) |
 | [0394-decode-string](https://github.com/Omprakash267/lc_soln/tree/master/0394-decode-string) |
 ## Hash Table
 |  |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Omprakash267/lc_soln/tree/master/0231-power-of-two) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Omprakash267/lc_soln/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Omprakash267/lc_soln/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Union-Find
