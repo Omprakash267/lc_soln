@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Omprakash267/lc_soln/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/Omprakash267/lc_soln/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Omprakash267/lc_soln/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0504-base-7](https://github.com/Omprakash267/lc_soln/tree/master/0504-base-7) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Omprakash267/lc_soln/tree/master/0883-projection-area-of-3d-shapes) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Omprakash267/lc_soln/tree/master/1248-count-number-of-nice-subarrays) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Omprakash267/lc_soln/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Omprakash267/lc_soln/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/Omprakash267/lc_soln/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/Omprakash267/lc_soln/tree/master/0434-number-of-segments-in-a-string) |
+| [0504-base-7](https://github.com/Omprakash267/lc_soln/tree/master/0504-base-7) |
 | [0583-delete-operation-for-two-strings](https://github.com/Omprakash267/lc_soln/tree/master/0583-delete-operation-for-two-strings) |
 | [0606-construct-string-from-binary-tree](https://github.com/Omprakash267/lc_soln/tree/master/0606-construct-string-from-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/Omprakash267/lc_soln/tree/master/0678-valid-parenthesis-string) |
