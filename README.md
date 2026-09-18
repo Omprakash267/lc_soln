@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Omprakash267/lc_soln/tree/master/1248-count-number-of-nice-subarrays) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Omprakash267/lc_soln/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/Omprakash267/lc_soln/tree/master/1512-number-of-good-pairs) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/Omprakash267/lc_soln/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2235-add-two-integers](https://github.com/Omprakash267/lc_soln/tree/master/2235-add-two-integers) |
 ## Binary Search
 |  |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/Omprakash267/lc_soln/tree/master/0068-text-justification) |
 | [0412-fizz-buzz](https://github.com/Omprakash267/lc_soln/tree/master/0412-fizz-buzz) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Omprakash267/lc_soln/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/Omprakash267/lc_soln/tree/master/2180-count-integers-with-even-digit-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
