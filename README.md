@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Omprakash267/lc_soln/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Omprakash267/lc_soln/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Omprakash267/lc_soln/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Omprakash267/lc_soln/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Omprakash267/lc_soln/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Omprakash267/lc_soln/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Omprakash267/lc_soln/tree/master/0189-rotate-array) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Omprakash267/lc_soln/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Omprakash267/lc_soln/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Omprakash267/lc_soln/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Omprakash267/lc_soln/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Omprakash267/lc_soln/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/Omprakash267/lc_soln/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Omprakash267/lc_soln/tree/master/0242-valid-anagram) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Omprakash267/lc_soln/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/Omprakash267/lc_soln/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Omprakash267/lc_soln/tree/master/0068-text-justification) |
 | [0412-fizz-buzz](https://github.com/Omprakash267/lc_soln/tree/master/0412-fizz-buzz) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Omprakash267/lc_soln/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Omprakash267/lc_soln/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Omprakash267/lc_soln/tree/master/0231-power-of-two) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Omprakash267/lc_soln/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Omprakash267/lc_soln/tree/master/1684-count-the-number-of-consistent-strings) |
