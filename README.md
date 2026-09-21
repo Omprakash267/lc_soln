@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/Omprakash267/lc_soln/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/Omprakash267/lc_soln/tree/master/1748-sum-of-unique-elements) |
 | [1773-count-items-matching-a-rule](https://github.com/Omprakash267/lc_soln/tree/master/1773-count-items-matching-a-rule) |
+| [1920-build-array-from-permutation](https://github.com/Omprakash267/lc_soln/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Omprakash267/lc_soln/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Omprakash267/lc_soln/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Math
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Omprakash267/lc_soln/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Omprakash267/lc_soln/tree/master/0068-text-justification) |
 | [0412-fizz-buzz](https://github.com/Omprakash267/lc_soln/tree/master/0412-fizz-buzz) |
+| [1920-build-array-from-permutation](https://github.com/Omprakash267/lc_soln/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Omprakash267/lc_soln/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Omprakash267/lc_soln/tree/master/2180-count-integers-with-even-digit-sum) |
 ## Dynamic Programming
