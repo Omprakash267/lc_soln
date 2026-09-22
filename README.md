@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Omprakash267/lc_soln/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Omprakash267/lc_soln/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Omprakash267/lc_soln/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Omprakash267/lc_soln/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Omprakash267/lc_soln/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Omprakash267/lc_soln/tree/master/0027-remove-element) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Omprakash267/lc_soln/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/Omprakash267/lc_soln/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/Omprakash267/lc_soln/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/Omprakash267/lc_soln/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Omprakash267/lc_soln/tree/master/0049-group-anagrams) |
@@ -307,4 +309,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Omprakash267/lc_soln/tree/master/0292-nim-game) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Omprakash267/lc_soln/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
