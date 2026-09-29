@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Omprakash267/lc_soln/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0561-array-partition](https://github.com/Omprakash267/lc_soln/tree/master/0561-array-partition) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Omprakash267/lc_soln/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/Omprakash267/lc_soln/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0833-find-and-replace-in-string](https://github.com/Omprakash267/lc_soln/tree/master/0833-find-and-replace-in-string) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Omprakash267/lc_soln/tree/master/0883-projection-area-of-3d-shapes) |
 | [0904-fruit-into-baskets](https://github.com/Omprakash267/lc_soln/tree/master/0904-fruit-into-baskets) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Omprakash267/lc_soln/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Omprakash267/lc_soln/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Omprakash267/lc_soln/tree/master/0209-minimum-size-subarray-sum) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/Omprakash267/lc_soln/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1004-max-consecutive-ones-iii](https://github.com/Omprakash267/lc_soln/tree/master/1004-max-consecutive-ones-iii) |
 ## Divide and Conquer
 |  |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Omprakash267/lc_soln/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Omprakash267/lc_soln/tree/master/0242-valid-anagram) |
 | [0561-array-partition](https://github.com/Omprakash267/lc_soln/tree/master/0561-array-partition) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/Omprakash267/lc_soln/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0791-custom-sort-string](https://github.com/Omprakash267/lc_soln/tree/master/0791-custom-sort-string) |
 | [0833-find-and-replace-in-string](https://github.com/Omprakash267/lc_soln/tree/master/0833-find-and-replace-in-string) |
 ## Heap (Priority Queue)
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Omprakash267/lc_soln/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Omprakash267/lc_soln/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Omprakash267/lc_soln/tree/master/0189-rotate-array) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/Omprakash267/lc_soln/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1768-merge-strings-alternately](https://github.com/Omprakash267/lc_soln/tree/master/1768-merge-strings-alternately) |
 ## Stack
 |  |
